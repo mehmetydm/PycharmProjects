@@ -3,3 +3,7 @@
 .sass-cache
 .idea
 .ipynb_checkpoints
+.csv
+.json
+.jpg
+/images

@@ -31,3 +31,11 @@ model.add(keras.layers.Dense(16, activation="relu"))
 model.add(keras.layers.Dense(1, activation="sigmoid"))
 
 model.summary()
+
+model.compile(optimizer="adam", loss="binary_crossentropy", metrics=["accuracy"])
+x_val = train_data[:10000]
+x_train = train_data[10000:]
+
+y_val = train_data[:10000]
+y_train = train_data[10000:]
+
