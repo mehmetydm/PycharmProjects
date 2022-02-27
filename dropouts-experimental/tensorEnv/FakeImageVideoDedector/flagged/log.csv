@@ -1,3 +1,11 @@
 input img,Detected face,Output 2,Output 3,Confidence,timestamp
 input img/0.jpg,Detected face/0.png,The image may be REAL or FAKE.,"REAL: 40.96%, FAKE: 59.04%","{""fake"": 0.5904220342636108, ""real"": 0.4095779359340668}",2022-02-20 18:31:21.476689
 input img/1.jpg,Detected face/1.png,The image may be REAL or FAKE.,"REAL: 40.96%, FAKE: 59.04%","{""fake"": 0.5904220342636108, ""real"": 0.4095779359340668}",2022-02-20 18:31:23.007182
+input img/2.jpg,Tespit Edilen Yüz/0.png,Bu resim GERÇEK ya da SAHTE olabilir.,"GERÇEK: 59.3%, SAHTE: 40.7%","{""ger\u00e7ek"": 0.5929624438285828, ""sahte"": 0.40703752636909485}",2022-02-26 20:27:09.749277
+input img/3.jpg,Tespit Edilen Yüz/1.png,Bu resim GERÇEK ya da SAHTE olabilir.,"GERÇEK: 59.3%, SAHTE: 40.7%","{""ger\u00e7ek"": 0.5929624438285828, ""sahte"": 0.40703752636909485}",2022-02-26 20:27:11.632667
+input img/4.jpg,Tespit Edilen Yüz/2.png,Bu resim GERÇEK ya da SAHTE olabilir.,"GERÇEK: 59.3%, SAHTE: 40.7%","{""ger\u00e7ek"": 0.5929624438285828, ""sahte"": 0.40703752636909485}",2022-02-26 20:27:12.761848
+input img/5.jpg,Tespit Edilen Yüz/3.png,Bu resim GERÇEK ya da SAHTE olabilir.,"GERÇEK: 59.3%, SAHTE: 40.7%","{""ger\u00e7ek"": 0.5929624438285828, ""sahte"": 0.40703752636909485}",2022-02-26 20:27:13.582057
+input img/6.jpg,Tespit Edilen Yüz/4.png,Bu resim GERÇEK ya da SAHTE olabilir.,"GERÇEK: 59.3%, SAHTE: 40.7%","{""ger\u00e7ek"": 0.5929624438285828, ""sahte"": 0.40703752636909485}",2022-02-26 20:27:13.887372
+input img/7.jpg,Tespit Edilen Yüz/5.png,Bu resim GERÇEK ya da SAHTE olabilir.,"GERÇEK: 59.3%, SAHTE: 40.7%","{""ger\u00e7ek"": 0.5929624438285828, ""sahte"": 0.40703752636909485}",2022-02-26 20:27:14.192029
+input img/8.jpg,Tespit Edilen Yüz/6.png,Bu resim GERÇEK ya da SAHTE olabilir.,"GERÇEK: 59.3%, SAHTE: 40.7%","{""ger\u00e7ek"": 0.5929624438285828, ""sahte"": 0.40703752636909485}",2022-02-26 20:27:16.333980
+input img/9.jpg,Tespit Edilen Yüz/7.png,Bu resim GERÇEK ya da SAHTE olabilir.,"GERÇEK: 59.3%, SAHTE: 40.7%","{""ger\u00e7ek"": 0.5929624438285828, ""sahte"": 0.40703752636909485}",2022-02-26 20:27:17.572370
